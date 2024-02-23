@@ -1,0 +1,93 @@
+.nav li {
+    color: rgb(8, 8, 8);
+    list-style: none;
+    display: flex;
+    float: right;
+}
+   .nav{
+    height: 80px;
+    width: 100%;
+   }
+   .label{
+    font-size: x-large;
+    margin-top: 18px;
+    align-items: center;
+
+    
+    
+
+   }
+nav ul{
+    float: right;
+    margin-right: 20px ;
+    margin-bottom: 2;
+    box-shadow: 5px;
+    align-items: center;
+}
+nav ul li{
+    display: inline-block;
+   
+    margin: 0 25px;
+    color: rgb(4, 5, 5);
+    align-items: center;
+    word-spacing: 1px;
+}
+nav ul li a {
+    text-decoration: none;
+    letter-spacing: 5px;
+    align-items: center;
+}
+ .team-container {
+    display: flex;
+    
+   
+   
+  }
+  
+  .team-member {
+   
+    margin: 10px;
+   
+  }
+  
+  .team-member img {
+    width: 100%;
+   
+    margin-bottom: 10px;
+  }
+  
+  .team-member .name {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+  }
+  
+  .team-member .designation {
+    margin: 0;
+    font-size: 1rem;
+    color: #666;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+  }
+  .team-card button {
+    display: block;
+    margin: 10px auto;
+    width: 100%;
+    padding: 8px;
+    border: none;
+    background-color: #f1f1f1;
+    color: black;
+  }
+ /* .team-container{
+    display: flex;
+  }
+  .team-member img{
+width: 100%;
+
+
+  }
+.team-member{
+   margin: 10px;
+}*/
